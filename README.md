@@ -1,0 +1,3 @@
+# SitePerformaceTool
+For taking full page screenshot, normal size screenshot, generate har file for a url and calculate 
+yslow score for that...
